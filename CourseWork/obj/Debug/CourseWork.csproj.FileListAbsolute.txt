@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Form3.resources
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Form4.resources
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\bin\Debug\Database2.mdf
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\bin\Debug\Database2_log.ldf
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.Form5.resources
+C:\Users\Пользователь\source\repos\CourseWork\CourseWork\obj\Debug\CourseWork.LoginFrom.resources
